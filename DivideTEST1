@@ -1,0 +1,9 @@
+#include <stdio.h>
+#include <conio.h>
+main () { int a,b; 
+float c; 
+printf("\n Enter a,b");
+scanf("%d %d",&a,&b);
+c=(float) a/b; 
+printf("\n %f",c); 
+}
